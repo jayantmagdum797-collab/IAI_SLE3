@@ -6,7 +6,7 @@ Project: SLE-3 Architectural Design using Full C4 Model
 System: Route-Finding System (BFS / DFS)
 
 ==================================================
-# PART 1: MY CONTRIBUTION LOG
+## PART 1: MY CONTRIBUTION LOG
 ==================================================
 - Chose the system (Route-Finding System from my SLE-2 work)
 - Decided the 5 containers: Input Module, Search Engine, Visited Set + Parent Map, Profiler, Output Module
@@ -18,9 +18,9 @@ System: Route-Finding System (BFS / DFS)
 - Checked the report against the SLE-3 guideline checklist (4 levels, within 4 pages)
 
 ==================================================
-PART 2: AI CONTRIBUTION LOG
+## PART 2: AI CONTRIBUTION LOG
 ==================================================
-AI tool used: Claude (Anthropic)
+### AI tool used: Claude (Anthropic)
 
 - Drew the Context (Level 1), Container (Level 2) and Component (Level 3) diagrams
 - Drafted the Code Level overview (Level 4) function list
